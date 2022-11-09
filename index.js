@@ -28,4 +28,4 @@ client.on('message', msg=>{
     }
 })
 
-client.login('OTQ3ODA5NjQ3MDQwMDI4Njgy.YhyqhQ.KPGvXwiwkIMmeG-jSLhFzgpiGlg')
+client.login('토큰 입력')
